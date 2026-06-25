@@ -1,4 +1,4 @@
-# 8x React Native Template
+
 
 Production-ready React Native Expo template. Clone it, rename it, brand it, ship it.
 Supabase auth + DB, RevenueCat subscriptions, Sentry, PostHog, and TanStack Query are all pre-wired.
